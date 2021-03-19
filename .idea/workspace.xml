@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2765b3c8-3632-4f75-a39a-62daacf9000b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="css scripy" />
+        <option value="css script" />
+        <option value="javascript" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/djangoTuto/test2/test2" />
+  </component>
+  <component name="JupyterTrust" id="3a24f3b5-d63e-4d0e-afa3-b7a0519dab24" />
+  <component name="ProjectId" id="1adQH3nNEGWJn3DSIlDhfZzi9qe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode_prep" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/marquee_hvac/home/static/home/pdfs" />
+      <recent name="$PROJECT_DIR$/buy_sell_web/home/static/home/images" />
+      <recent name="$PROJECT_DIR$/buy_sell_web/static/home/images" />
+      <recent name="$PROJECT_DIR$/buy_sell_web/home/templates/home" />
+      <recent name="$PROJECT_DIR$/buy_sell_web/home/static/home/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/buy_sell_web/home/templates/home" />
+      <recent name="$PROJECT_DIR$/buy_sell_web/home" />
+      <recent name="$PROJECT_DIR$/buy_sell_web/home/static/home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.btcwallet">
+    <configuration name="btcwallet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/btcwallet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="refreesh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/djangoTuto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/djangoTuto/refreesh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.btcwallet" />
+        <item itemvalue="Python.refreesh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2765b3c8-3632-4f75-a39a-62daacf9000b" name="Default Changelist" comment="" />
+      <created>1587062899676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587062899676</updated>
+      <workItem from="1591294174899" duration="202000" />
+      <workItem from="1591294446029" duration="11207000" />
+      <workItem from="1591335243349" duration="11255000" />
+      <workItem from="1591437866135" duration="16834000" />
+      <workItem from="1591513456162" duration="22705000" />
+      <workItem from="1591633633988" duration="1313000" />
+      <workItem from="1591639442208" duration="2221000" />
+      <workItem from="1591647332921" duration="3610000" />
+      <workItem from="1591657126344" duration="6128000" />
+      <workItem from="1591686232304" duration="5537000" />
+      <workItem from="1591692388574" duration="11353000" />
+      <workItem from="1591707085472" duration="1174000" />
+      <workItem from="1591708921580" duration="11000" />
+      <workItem from="1591771627506" duration="2585000" />
+      <workItem from="1591775180790" duration="3488000" />
+      <workItem from="1591779149669" duration="11453000" />
+      <workItem from="1591802814308" duration="15791000" />
+      <workItem from="1591870154807" duration="10805000" />
+      <workItem from="1591894236336" duration="161000" />
+      <workItem from="1591948162585" duration="7186000" />
+      <workItem from="1591972398409" duration="14775000" />
+      <workItem from="1591991041003" duration="4435000" />
+      <workItem from="1592036689732" duration="77000" />
+      <workItem from="1592047706600" duration="652000" />
+      <workItem from="1592152121444" duration="77000" />
+      <workItem from="1592154557218" duration="27425000" />
+      <workItem from="1592198164399" duration="6261000" />
+      <workItem from="1592210993140" duration="38220000" />
+      <workItem from="1592302177792" duration="20879000" />
+      <workItem from="1592373224356" duration="29628000" />
+      <workItem from="1592409917145" duration="18930000" />
+      <workItem from="1592457971982" duration="21697000" />
+      <workItem from="1592495846735" duration="8517000" />
+      <workItem from="1592513340130" duration="4361000" />
+      <workItem from="1592551523812" duration="2792000" />
+      <workItem from="1592559563151" duration="4149000" />
+      <workItem from="1592573747796" duration="6450000" />
+      <workItem from="1592590857120" duration="1976000" />
+      <workItem from="1592640688650" duration="12949000" />
+      <workItem from="1592676052626" duration="3629000" />
+      <workItem from="1592712638231" duration="1471000" />
+      <workItem from="1592718738828" duration="2515000" />
+      <workItem from="1592740154253" duration="2631000" />
+      <workItem from="1592791004148" duration="1258000" />
+      <workItem from="1592897448515" duration="9920000" />
+      <workItem from="1592890640348" duration="1336000" />
+      <workItem from="1592892677105" duration="4023000" />
+      <workItem from="1592901406407" duration="197000" />
+      <workItem from="1592919563347" duration="1300000" />
+      <workItem from="1592994373475" duration="11000" />
+      <workItem from="1593084740907" duration="5725000" />
+      <workItem from="1593090797241" duration="1043000" />
+      <workItem from="1593418802902" duration="6994000" />
+      <workItem from="1593501843502" duration="89000" />
+      <workItem from="1593501956672" duration="32000" />
+      <workItem from="1593512195825" duration="137000" />
+      <workItem from="1593531148780" duration="451000" />
+      <workItem from="1593513691086" duration="357000" />
+      <workItem from="1594227083779" duration="115000" />
+      <workItem from="1594950968895" duration="89000" />
+      <workItem from="1594951250210" duration="231000" />
+      <workItem from="1594951503268" duration="49000" />
+      <workItem from="1596029153917" duration="7393000" />
+      <workItem from="1596730892370" duration="277000" />
+      <workItem from="1596861994528" duration="2574000" />
+      <workItem from="1597166804179" duration="248000" />
+      <workItem from="1598102716233" duration="9681000" />
+      <workItem from="1598258137684" duration="2894000" />
+      <workItem from="1598283595557" duration="1806000" />
+      <workItem from="1598338322178" duration="1963000" />
+      <workItem from="1598454491539" duration="2146000" />
+      <workItem from="1598523660751" duration="2006000" />
+      <workItem from="1598545261170" duration="3102000" />
+      <workItem from="1598594562568" duration="11512000" />
+      <workItem from="1598618389097" duration="21620000" />
+      <workItem from="1598683190627" duration="13225000" />
+      <workItem from="1598705117261" duration="4274000" />
+      <workItem from="1598723625689" duration="9472000" />
+      <workItem from="1598790813463" duration="275000" />
+      <workItem from="1598802515009" duration="8974000" />
+      <workItem from="1598903070703" duration="1123000" />
+      <workItem from="1598945268195" duration="9802000" />
+      <workItem from="1599125213006" duration="5477000" />
+      <workItem from="1599297807316" duration="7000" />
+      <workItem from="1599298119906" duration="617000" />
+      <workItem from="1599311957192" duration="1449000" />
+      <workItem from="1599385334514" duration="2008000" />
+      <workItem from="1599387497681" duration="15689000" />
+      <workItem from="1599459733578" duration="1000" />
+      <workItem from="1599463521584" duration="599000" />
+      <workItem from="1599474067373" duration="656000" />
+      <workItem from="1599485651701" duration="52000" />
+      <workItem from="1599496600077" duration="3244000" />
+      <workItem from="1599547552012" duration="3000" />
+      <workItem from="1599548359112" duration="2000" />
+      <workItem from="1599577983023" duration="3606000" />
+      <workItem from="1599634147578" duration="1202000" />
+      <workItem from="1600930410471" duration="604000" />
+      <workItem from="1601440082340" duration="3969000" />
+      <workItem from="1602101421110" duration="3136000" />
+      <workItem from="1602239601898" duration="607000" />
+      <workItem from="1604220177598" duration="94000" />
+      <workItem from="1604494688703" duration="736000" />
+      <workItem from="1604595329866" duration="1066000" />
+      <workItem from="1604671158596" duration="38000" />
+      <workItem from="1604879218448" duration="88000" />
+      <workItem from="1606987506052" duration="5776000" />
+      <workItem from="1607005430340" duration="71000" />
+      <workItem from="1607007651761" duration="621000" />
+      <workItem from="1607370062994" duration="98000" />
+      <workItem from="1608144125122" duration="599000" />
+      <workItem from="1608398053979" duration="27000" />
+      <workItem from="1609456410892" duration="242000" />
+      <workItem from="1610050565084" duration="599000" />
+      <workItem from="1610630395222" duration="3503000" />
+      <workItem from="1610730112723" duration="869000" />
+      <workItem from="1610731258373" duration="154000" />
+      <workItem from="1610783606193" duration="1257000" />
+      <workItem from="1610790178420" duration="977000" />
+      <workItem from="1610851334141" duration="1349000" />
+      <workItem from="1610899294889" duration="2433000" />
+      <workItem from="1611329497361" duration="4704000" />
+      <workItem from="1611502128792" duration="2317000" />
+      <workItem from="1611638544107" duration="1266000" />
+      <workItem from="1611674401707" duration="1018000" />
+      <workItem from="1611834960930" duration="1796000" />
+      <workItem from="1611851831246" duration="1999000" />
+      <workItem from="1611898471547" duration="4749000" />
+      <workItem from="1611941035802" duration="663000" />
+      <workItem from="1611985142740" duration="4449000" />
+      <workItem from="1612808716126" duration="80000" />
+      <workItem from="1613066969615" duration="630000" />
+      <workItem from="1613149168069" duration="684000" />
+      <workItem from="1613927764598" duration="787000" />
+      <workItem from="1614266236663" duration="1206000" />
+      <workItem from="1614319253907" duration="1327000" />
+      <workItem from="1614356821739" duration="6422000" />
+      <workItem from="1614578494953" duration="1393000" />
+      <workItem from="1615136577701" duration="102000" />
+      <workItem from="1615746310980" duration="612000" />
+      <workItem from="1615996720476" duration="36000" />
+      <workItem from="1616132458622" duration="1682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/djangoTuto/test2/test2" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/djangoTuto/test2/test2/test2/settings.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/djangoTuto/test2/test2/user/forms.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_project$btcwallet.coverage" NAME="btcwallet Coverage Results" MODIFIED="1610901473663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

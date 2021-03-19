@@ -1,0 +1,39 @@
+{% load static %}
+{% load widget_tweaks %}
+{% load crispy_forms_tags %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>MARQUEEHVAC | Air Condition</title>
+
+    <link rel="stylesheet" href="{% static 'home/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'home/css/jquery.mCustomScrollbar.min.css' %}">
+    <link rel="stylesheet" href="{% static 'home/css/flickity.css' %}" media="screen">
+    <link rel="stylesheet" href="{% static 'home/css/font-awesome.css' %}">
+    <link rel="stylesheet" href="{% static 'home/css/style.css' %}">
+</head>
+<body>
+    {% block content %}{% endblock %}
+
+    <script src="{% static 'home/js/jquery-3.4.1.min.js' %}"></script>
+    <script src="{% static 'home/js/popper.min.js' %}"></script>
+    <script src="{% static 'home/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'home/js/jquery.mCustomScrollbar.concat.min.js' %}"></script>
+    <script src="{% static 'home/js/flickity.pkgd.js' %}"></script>
+    <script defer="" src="{% static 'home/js/owl-carousel.min.js' %}"></script>
+    <script src="{% static 'home/js/bootstrap.js' %}"></script>
+    <script src="{% static 'home/js/jquery.bootstrap.modal.forms.js' %}"></script>
+    <script src="{% static 'home/js/jquery.bootstrap.modal.forms.min.js' %}"></script>
+    <script defer src="{% static 'home/js/solid.js' %}"></script>
+    <script defer src="{% static 'home/js/fontawesome.js' %}"></script>
+    <script src="{% static 'home/js/iconify.min.js' %}"></script>
+
+    {% block js %}{% endblock %}
+
+</body>
+</html>
