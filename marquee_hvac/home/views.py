@@ -19,3 +19,8 @@ def contact_us(request):
     context = {
     }
     return render(request, 'home/contact_us.html', context)
+
+def services(request):
+    context = {
+    }
+    return render(request, 'home/3d_printer_ui.html', context)
