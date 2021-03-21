@@ -236,6 +236,123 @@ ul {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 
+.productCard {
+  height: auto;
+  width: 100%;
+  z-index: 1;
+  transition: all 0.2s;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.productCard_outer_div{
+  max-width: 34%;
+}
+
+.padding_0{
+    padding-right:0;
+    padding-left:0;
+}
+
+.productCard__info {
+  color: #f21d44;
+  margin: 0 20px;
+
+}
+.productCard__info-title {
+  font-size: 40px;
+  font-family: bebas, "Poppins", sans-serif;
+  margin-bottom: 14px;
+}
+.productCard__info-special_feature {
+  font-size: 24px;
+  font-family: bebas, "Poppins", sans-serif;
+  display: block;
+}
+.productCard__info-feature {
+  font-size: 14px;
+  display: block;
+  margin-bottom: 10px;
+}
+.productCard__info-price {
+  font-size: 32px;
+  display: block;
+  margin-bottom: 32px;
+  font-family: bebas, "Poppins", sans-serif;
+}
+.productCard__img {
+  right: 25px;
+  top: 90px;
+}
+.productCard__img-size {
+  width: 100%;
+  height: auto;
+}
+
+.buttonSmall-red {
+  background-color: #f21d44;
+  color: #f2f2f2;
+  padding: 10px 24px;
+  font-size: 20px;
+  display: initial;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+.buttonSmall-red:hover {
+  padding: 13px 30px;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  background-color: #f2f2f2;
+  color: #f21d44;
+  border: 0;
+}
+.buttonSmall-red:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
+}
+.buttonSmall-red:link, .buttonSmall-red:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: bebas, "Poppins", sans-serif;
+}
+
+.buttonSmall-outlineRed {
+  border-color: #f21d44;
+  border: 2px solid;
+  color: #f21d44;
+  padding: 12px 26px;
+  font-size: 20px;
+  display: initial;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+.buttonSmall-outlineRed:hover {
+  padding: 16px 32px;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  background-color: #f2f2f2;
+  color: #f21d44;
+  border: 0;
+}
+.buttonSmall-outlineRed:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
+}
+.buttonSmall-outlineRed:link, .buttonSmall-outlineRed:visited {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: bebas, "Poppins", sans-serif;
+}
+
+.pColor1 {
+  background-color: #fbe4e4;
+}
+
+.pColor2 {
+  background-color: #f2f2f2;
+}
+
 @keyframes moveInTop {
   0% {
     opacity: 0;
