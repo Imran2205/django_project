@@ -241,18 +241,20 @@ ul {
   width: 100%;
   z-index: 1;
   transition: all 0.2s;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
 }
 
 .productCard_outer_div{
-  max-width: 34%;
+  max-width: 33%;
 }
 
 .padding_0{
-    padding-right:0;
-    padding-left:0;
+  padding-right:0;
+  padding-left:0;
+}
+
+.margin_0 {
+  margin-left: 0px;
+  margin-right:  0px;
 }
 
 .productCard__info {
@@ -351,6 +353,26 @@ ul {
 
 .pColor2 {
   background-color: #f2f2f2;
+}
+
+.topTitle {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.subTitle {
+  display: block;
+  font-size: 26px;
+  font-weight: 300;
+  color: #330009;
+}
+
+.mainTitle {
+  display: block;
+  font-size: 42px;
+  margin-top: 5px;
+  font-family: bebas, "Poppins", sans-serif;
+  color: #330009;
 }
 
 @keyframes moveInTop {
