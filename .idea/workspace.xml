@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2765b3c8-3632-4f75-a39a-62daacf9000b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marquee_hvac/home/templates/home/3d_printer_ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/marquee_hvac/home/templates/home/3d_printer_ui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marquee_hvac/home/templates/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/marquee_hvac/home/templates/home/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../machronics_printer_customization/printer_customize" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -300,7 +300,13 @@
       <workItem from="1616432198095" duration="779000" />
       <workItem from="1616436645136" duration="1162000" />
       <workItem from="1616522353071" duration="517000" />
-      <workItem from="1616523434633" duration="636000" />
+      <workItem from="1616523434633" duration="676000" />
+      <workItem from="1616769937816" duration="354000" />
+      <workItem from="1616908177694" duration="8136000" />
+      <workItem from="1616952582504" duration="2129000" />
+      <workItem from="1617041658743" duration="1434000" />
+      <workItem from="1617117531056" duration="1214000" />
+      <workItem from="1617350950402" duration="4460000" />
     </task>
     <task id="LOCAL-00001" summary="added new page">
       <created>1616262329732</created>
@@ -323,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616432218803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated new page">
+      <created>1616524086522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616524086522</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
