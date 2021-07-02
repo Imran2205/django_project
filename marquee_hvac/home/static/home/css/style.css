@@ -1,6 +1,6 @@
 /* custom font */
 @font-face {
-  src: url(/font/BebasNeue-Regular.ttf);
+  src: url(web_fonts/BebasNeue-Regular.ttf);
   font-family: bebas;
 }
 /* Variables */
@@ -1110,4 +1110,138 @@ text-align: center;
   border: none;
   cursor: pointer;
   text-align: center;
+}
+
+.btn {
+  width: 30%;
+  margin: 15px 0 30px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 12px;
+  height: 48px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-transform: uppercase;
+}
+.btn:hover {
+  transform: translateY(-3px);
+  transition: all 0.2s ease-in-out;
+}
+.btn:not(:last-child) {
+  margin-right: 12px;
+}
+.btn-fill {
+  color: var(--color-main);
+  background-color: white;
+}
+.btn-outline {
+  color: var(--white);
+  background-color: transparent;
+  border: 2px solid var(--white);
+}
+.btn-outline:hover{
+  color: var(--color-main);
+  background-color: var(--white);
+
+}
+.product__btn {
+  width: 100%;
+  margin: 15px 0 30px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 12px;
+  height: 48px;
+  text-transform: uppercase;
+  color: var(--white);
+  background-color: var(--color-main);
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+input[type="submit"] {
+  width: 100%;
+  margin: 15px 0 30px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 12px;
+  height: 48px;
+  text-transform: uppercase;
+  color: var(--white);
+  background-color: var(--color-main);
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+input[type="submit"]:hover {
+  transform: translateY(-3px);
+  transition: all 0.2s ease-in-out;
+}
+.login-wrapper .btn__signup-login {
+  width: 100%;
+  margin: 15px 0 30px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 12px;
+  height: 48px;
+  text-transform: uppercase;
+  color: var(--white);
+  background-color: var(--color-main);
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+.login-wrapper .btn__signup-login:focus {
+  outline: none;
+}
+.catalog_download .btn-download {
+  width: 100%;
+  font-size: 1.4rem;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 12px;
+  height: 48px;
+  text-transform: uppercase;
+  color: var(--color-main);
+  background-color: transparent;
+  border: 2px solid var(--color-main);
+  cursor: pointer;
+  text-align: center;
+}
+.catalog_download .btn-download:hover {
+  color: var(--white);
+  background-color: var(--color-main);
+  border: none;
+  transition: all 0.3s;
+}
+.catalog_download .btn-download:focus {
+  outline: none;
+}
+.page-not-found button {
+  width: 100%;
+  margin: 15px 0 30px;
+  font-size: 1.4rem;
+  line-height: 22px;
+  font-weight: 700;
+  padding: 12px;
+  height: 48px;
+  text-transform: uppercase;
+  color: var(--white);
+  background-color: var(--color-main);
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+@media (max-width: 527px) {
+  .btn {
+    margin: 12px auto;
+    width: 50%;
+  }
+  .btn:not(:last-child) {
+    margin-right: 0;
+  }
 }
